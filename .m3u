@@ -491,40 +491,36 @@ https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0XhcNebymCz5IUA7ZiotNPqZ_y0NWZU-kw&usqp=CAU"  group-title="⭐️ Colombia",COL| canal zoom
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
-
 #EXTINF:-1 xui-id="712946" tvg-id="" tvg-name="CL| Mega" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR255_wMEk4eecs8aGjUvu44l7ykWy06vj51g&usqp=CAU" group-title="⭐️ CHILE  ",CHI| Mega 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305018
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/28246
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkvTL5aSiBUYzgD7e1TDlwP-Q0_lnINV9FQ&usqp=CAU" group-title="⭐️ CHILE  ",CHI| CHILEVISION 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/58287
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325654
 #EXTINF:-1 tvg-id="" tvg-name="CL | 13 ENTRETENCIÓN" tvg-logo="http://streamgo.vip:8008/images/0b5879426e89dec80c851083f6a6b7d8.png" group-title="⭐️ CHILE" ,CHI| 13 ENTRETENCION
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/300288
-#EXTINF:-1 tvg-id="" tvg-name="CL | 13 PRIME" tvg-logo="http://streamgo.vip:8008/images/9b1dd26d1375fb5db2b6158c55e0a523.png" group-title="⭐️ CHILE" ,CHI| 13 PRIM
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/300289
-#EXTINF:-1 tvg-id="" tvg-name="CL | 13 TELESSERIES" tvg-logo="http://streamgo.vip:8008/images/337e9d841d5d16a255204ef83a53d9da.png" group-title="⭐️ CHILE" ,CHI| 13 TELESERIAS
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/300290
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325662
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13 PRIME" tvg-logo="http://streamgo.vip:8008/images/9b1dd26d1375fb5db2b6158c55e0a523.png" group-title="⭐️ CHILE" ,CHI| 13 PRIME
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325665
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13 TELESSERIES" tvg-logo="http://streamgo.vip:8008/images/337e9d841d5d16a255204ef83a53d9da.png" group-title="⭐️ CHILE" ,CHI| 13 TELESERIES
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325663
 #EXTINF:-1 tvg-id="" tvg-name="CL | 13 CULTURA" tvg-logo="http://streamgo.vip:8008/images/9b28c06eae5ae3c92b2570c6eb8be23d.png" group-title="⭐️ CHILE  ",CHI| 13 CULTURA 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/300289
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325664
 #EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13 SD" tvg-logo="http://streamgo.vip:8008/images/a67edae422309f893a73707b38e9ca09.png" group-title="⭐️ CHILE  ",CHI| CL | CANAL 13 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/272240
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325657
 #EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13 C" tvg-logo="http://streamgo.vip:8008/images/50b794b3749e2e23b118c5b6416c73e4.png" group-title="⭐️ CHILE  ",CHI| CANAL 13 C 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/272242
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325660
 #EXTINF:-1 tvg-id="" tvg-name="CL | 24 HORAS HD" tvg-logo="http://streamgo.vip:8008/images/95ce89134c00bc95c9c8b016b6a36c92.png" group-title="⭐️ CHILE  ",CHI| 24 HORAS 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/272253
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325687
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | LA RED SD" tvg-logo="http://streamgo.vip:8008/images/bcfd743e350fccf33546292fffc48b26.png" group-title="⭐️ CHILE  ",CHI| LA RED 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/272254
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72k-MViOqynx8-RJfOSuHUHD3IVQZz9NV-g&usqp=CAU" group-title="⭐️ CHILE  ",CHI|  ETC 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/273684
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325688
 #EXTINF:-1 tvg-id="cnnchile.cl" tvg-name="CL | CNN CHILE" tvg-logo="http://streamgo.vip:8008/images/e869e5c28818e9af628420f84f3f2407.png" group-title="⭐️ CHILE  ",CHI| CNN  
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/273683
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325690
 #EXTINF:-1 tvg-id="tvplus.cl" tvg-name="CL | TV +" tvg-logo="http://streamgo.vip:8008/images/221ea66f87db3e11e1c6ef1b134255da.png" group-title="⭐️ CHILE  ",CHI| TV + 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/273685
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325695
 #EXTINF:-1 tvg-id="" tvg-name="CL | UCV HD" tvg-logo="http://streamgo.vip:8008/images/c45dd85f48789afdef7e43130f547366.png" group-title="⭐️ CHILE  ",CHI| UCV 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/273733
-#EXTINF:-1 tvg-id="" tvg-name="CL | ZONA LATINA" tvg-logo="http://streamgo.vip:8008/images/5a4b9fa350eb60818dfbde5f9d849c3d.png" group-title="⭐️ CHILE  ",CHI| ZONA LATINA 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/273734
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325691
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13 KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFSTOQZxcX3zUAVVjmVAKdY8LYlxQwLbHSkg&usqp=CAU" group-title="⭐️ CHILE  ",CHI| 13 KIDS
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325682
 #EXTINF:-1 tvg-id="viax.cl" tvg-name="CL | VIA X HD" tvg-logo="http://streamgo.vip:8008/images/1d9c1ad9b96033652920e9b643650477.png" group-title="⭐️ CHILE  ",CHI| VIA X 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298545
-
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/325694
 
 #EXTINF:-1 tvg-id="" tvg-name="PE | America sd" tvg-logo="http://streamgo.vip:8008/images/8bcf6e689f181f56cf4a814edae7c366.png" group-title="⭐️ Perú",PE| America 
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/283215
@@ -564,19 +560,6 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/283253
 http://kiubo.biz:80/Nicolay@022/Nico@0223/203965.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE | FUEGO  TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4z2MaBbUbJbvpUiG8Uy5gUf4FgbAOFCP0w&usqp=CAU" group-title="⭐️ Perú",PE| FUEGO  TV 
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/283255
-
-
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) CUBA: CUBAMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOSssY2QeGzDB6E0EHW-yxFr8aCQqHQVq-Jw&usqp=CAU" group-title="⭐️ Cuba",CUB| CUBAMAX 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/283350
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) CUBA: TELE REBELDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNgTSi3g_uf1ruio-xJBZ_iUK-LytfmH53A&usqp=CAU" group-title="⭐️ Cuba",CUB| TELE REBELDE 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/283351
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) CUBA : CUBAVISION INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IEoh_bwBz0TUbT6oI4OKh_5TI1NP-w5zNg&usqp=CAU" group-title="⭐️ Cuba",CUB| CUBAVISION 
-http://kiubo.biz:25461/play/F3dCSQZw6tUige68LlSkCkxElRbKN4KCFQYOm2T43AZPwewK2uzovVV-YXI1rWcu/ts
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) CUBA: MULTIVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfkJbhuJY4hy2VAKJigccwJMhOHmAg8YFsw&usqp=CAU" group-title="⭐️ Cuba",CUB| MULTIVISION 
-http://kiubo.biz:25461/play/F3dCSQZw6tUige68LlSkCoLGzF1aaotNCcQjZXJ4DBvwNBniAcnJUGRIC1bVCB43/ts
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) CUBA: AMRERICA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT14BfNBhipU1tdmUOvvTN60FrOpQWaMwoew&usqp=CAU" group-title="⭐️ Cuba",CUB| AMRERICA TV 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/283354
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Az Clic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyY1OJ1KwvaKIZNE3Ekj07A-6q_-ZJftytyw&usqp=CAU" group-title="⭐️ México",MEX| imagen tv
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/135400.ts
@@ -722,38 +705,19 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/297969
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/297970
 
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Canal 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbyG5nKG49NwtbdYtXcYGCPZ1Z7dxbIZxybw&usqp=CAU"  group-title="⭐️ Guatemala",GUA| Canal 11  
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298045
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234846.ts
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Canal 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1N-HxLSYuVZQTkgFTLm47bHlTnDDbLrt56Q&usqp=CAU"  group-title="⭐️ Guatemala",GUA| Canal 3  
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298046
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Antigua" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zNnXXVpEw_KGeyG_qGRnxoJC7RzaAYZHA&usqp=CAU"  group-title="⭐️ Guatemala",GUA| azteca guate  
-http://kiubo.biz:25461/play/F3dCSQZw6tUige68LlSkCsO9ueVxpOYdnRurr0T3gwOHKebGBerhILUC2SwHNyhh/ts
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234849.ts
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Antigua" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zNnXXVpEw_KGeyG_qGRnxoJC7RzaAYZHA&usqp=CAU"  group-title="⭐️ Guatemala",GUA| guate  azteca
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234845.ts
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Canal 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSafDVUnuu9A9O2572q0qpk2ilL9KVLYOwEJg&usqp=CAU"   group-title="⭐️ Guatemala",GUA| canal 13  
-http://kiubo.biz:25461/play/F3dCSQZw6tUige68LlSkCtq6pNpKxqLWeIWOAb42H5nAzDS0CPNJR4xjY7KBSQzJ/ts
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Canal 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUOSfcV0rMUNPk7paHNJjOYVk53ass7hip4w&usqp=CAU"  group-title="⭐️ Guatemala",GUA| tn 23  
-http://kiubo.biz:25461/play/F3dCSQZw6tUige68LlSkCsgNLwRfgHPxbYLzADG7QFaVfMimxa4qbHbQo-g_cySu/ts
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234847.ts
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Canal 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9jnT2lSJ8p0F3QxsjdP8MRoKjTd1LbB6qqA&usqp=CAU"  group-title="⭐️ Guatemala",GUA| guatevision  
-http://kiubo.biz:25461/play/F3dCSQZw6tUige68LlSkCpgjGDrXCL8lvYgj3rGeXw7Z8rfhjqncVMQv1VcFIndQ/ts
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234853.ts
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Canal 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVgrFPIXxArhFdk4r5RGZD5J7uMFl-toLoA&usqp=CAU"  group-title="⭐️ Guatemala",GUA| canal antigua  
-http://kiubo.biz:25461/play/F3dCSQZw6tUige68LlSkCjbFTEUBXWwIVUIeT_PWV7PuFwawOXW10X8vRCq7so3q/ts
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234851.ts
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Canal 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVuSDalEnKm3bUbfV9QYbJwLqi8h6MXN5tRQ&usqp=CAU"  group-title="⭐️ Guatemala",GUA| televisiete  
-http://kiubo.biz:25461/play/F3dCSQZw6tUige68LlSkCgQDLaJ0RjRZxWjmX_wZku1pNm4MFTg0qhoUYgd6hnul/ts
-
-#EXTINF:-1 tvg-id="" tvg-name="PN | CANAL 2 TVN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-2kmzH7IIR1_ikQPMfQUxr9s-pNyk938sg&usqp=CAU" group-title="⭐️ Panama", PAN| CANAL 2 TVN 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/279889
-#EXTINF:-1 tvg-id="" tvg-name="PN | CANAL 13 TELEMETRO FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3DMVjYgwi0nltlOEffiw0n3SxPkHRdymiqg&usqp=CAU" group-title="⭐️ Panama", PAN| CANAL 13 TELEMETRO 
-http://kiubo.biz:80/Nicolay@022/Nico@0223/204098.ts
-#EXTINF:-1 tvg-id="" tvg-name="PN | CANAL 9 TV MAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hUjJ0bBWD-X-t8M7sJouZcZVn-nqRD2wbA&usqp=CAU" group-title="⭐️ Panama", PAN| CANAL 9 TV MAX 
-http://kiubo.biz:80/Nicolay@022/Nico@0223/204100.ts
-#EXTINF:-1 tvg-id="" tvg-name="PN | CANAL 4 RPC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGMStuyCArDpsN_mKOpN-kakfpAgiOm1DA&usqp=CAU" group-title="⭐️ Panama", PAN| CANAL 4 RPC 
-http://kiubo.biz:80/Nicolay@022/Nico@0223/204094.ts
-#EXTINF:-1 tvg-id="" tvg-name="PN | SER TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXAxF6cPRfRkDQfHefR8uWRwcuzCak_SdF5A&usqp=CAU" group-title="⭐️ Panama", PAN| COS
-http://kiubo.biz:80/Nicolay@022/Nico@0223/204086.ts
-#EXTINF:-1 tvg-id="" tvg-name="PN | CANAL +23 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9hVpjQl98idu6xkCQKFFDLJAL9VZH5ZE3w&usqp=CAU" group-title="⭐️ Panama", PAN| CANAL +23 
-http://kiubo.biz:80/Nicolay@022/Nico@0223/204085.ts
-#EXTINF:-1 tvg-id="" tvg-name="PN | HOSSANA VISION HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdRZewMkGJ0HEsdhzA6lCm3vWM1feorQMo7A&usqp=CAU" group-title="⭐️ Panama", PAN| HOSSANA VISION 
-http://kiubo.biz:80/Nicolay@022/Nico@0223/204088.ts
-#EXTINF:-1 tvg-id="" tvg-name="PN | ECO TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbT_oG7pzWqCwjKIEfWfLefu-Axvy8mcC5DA&usqp=CAU" group-title="⭐️ Panama", PAN| ECO TV
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/279906
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234850.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="HN: Telecadena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQDZKGKKh2lPvngb0g3Lt4U7iWn-SzXmQsA&usqp=CAU"  group-title="⭐️ Honduras",HON| Telecadena 7/4
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/279908 
