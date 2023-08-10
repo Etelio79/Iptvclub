@@ -391,8 +391,8 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234820.ts
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234838.ts
 #EXTINF:-1 tvg-id="" tvg-name="07 | STV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmMtwaot_x4CyP8_4iGEcio9aHrmK_R-HEA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| STV  
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234839.ts
-#EXTINF:-1 tvg-id="" tvg-name="08 | Tv Sur canal 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicdsBDrjRTy4m72PUcQtpN0_UhLaKBipXhQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Tv Sur 
-https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08 | Tv Sur canal 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QEfWHe7Xf5GOSCz4VLtsBI-Gya9--GVLlw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Tv Sur canal 14
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234829.ts
 #EXTINF:-1 tvg-id="" tvg-name="08 | Tv Sur canal 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPRA3sFkiH04l8_YN53KEqSiMWSWtAmtv3Zw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TELE UNO
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234833.ts
 #EXTINF:-1 tvg-id="" tvg-name="10 | SAN JOSE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKy32Y3iI5Zi8yZ8RTk-Dv-i9oanmEuzUZw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| colosal
@@ -425,6 +425,18 @@ https://5fd8fec96951d.streamlock.net:443/TVN/CH14.stream_720p/chunklist_w4257776
 https://59ef525c24caa.streamlock.net:443/garabitoTV/garabitotv/chunklist_w1463613344.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkAHmCkkPzREUAjSuIcHtIxhLdD2QIFI9FQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| los santos tv
 https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLc-q6mb6P5Mp_UtK5GlZ0hz2pUCL088BLA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| antena seis
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlG_uFg79S9EnXs7eQp8vxnw/ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VoP8SblVK8J8dPnYOxYce0v1WCUzdmZPbA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| opa tv
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNSqkJuggLFt_Iphz7UormN27aMcCkmirFn1Pc_3ePka/ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpA9jclLdgAPa2pp8TEwTWSDQMnVpuPsbW9g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| tv world
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlAg70Zmeanq4mNIAFRdxETNhUX9IXXo4hbqRaefcU2A6/ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT965k0Zc0t_-wHh5So3hQzxWFpGLGlx9fBDQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| elite tv
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNE2NoiLgdNxPgyBH6OVIx5PC3D0jc0-xfrB4m3T_PIL/ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUp40G7FXkmvZsfnv5ohaLv6heiMK7wXC6lg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| retrox tv
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlPjlMn1nGd6eajAR_qtTVBiSV1ugp54j-hT7bToiQcQS/ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1bJxBhCtpZPJAwG2Cp15OJ7turfIu2kdlw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| crtv
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlKGD1cI_tP0Erkrj_PXm8xI/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CANAL UNO (fw)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCUQbz8wWJAyuPsv5SJspVkH0ilNEK4Qb0A&usqp=CAU" group-title="⭐️ Ecuador",ECU| TELERAMA
 http://kiubo.biz:80/Nicolay@022/Nico@0223/137024.ts
