@@ -419,7 +419,12 @@ https://video20.klm99.com:3993/hybrid/play.m3u8
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwhqwBftSfMu15hwXmFloirFOU7GfzvhtSYw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| costa rica channel
 https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuH2pNcjfEx1y0_sfIIg287VbEw-yJ5L6ig&usqp=CAU"  group-title="⭐️ Costa Rica",CR| teve norte
+https://5fd8fec96951d.streamlock.net:443/TVN/CH14.stream_720p/chunklist_w425777611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfLRTXz2TSfm1mnaockF7rWtYShJTJ8wMzQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| garabito tv
+https://59ef525c24caa.streamlock.net:443/garabitoTV/garabitotv/chunklist_w1463613344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkAHmCkkPzREUAjSuIcHtIxhLdD2QIFI9FQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| los santos tv
+https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CANAL UNO (fw)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCUQbz8wWJAyuPsv5SJspVkH0ilNEK4Qb0A&usqp=CAU" group-title="⭐️ Ecuador",ECU| TELERAMA
 http://kiubo.biz:80/Nicolay@022/Nico@0223/137024.ts
