@@ -392,7 +392,7 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234838.ts
 #EXTINF:-1 tvg-id="" tvg-name="07 | STV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmMtwaot_x4CyP8_4iGEcio9aHrmK_R-HEA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| STV  
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234839.ts
 #EXTINF:-1 tvg-id="" tvg-name="08 | Tv Sur canal 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QEfWHe7Xf5GOSCz4VLtsBI-Gya9--GVLlw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Tv Sur canal 14
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234829.ts
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlGxBfPMGWa_96X1TajjXC7U/ts
 #EXTINF:-1 tvg-id="" tvg-name="08 | Tv Sur canal 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPRA3sFkiH04l8_YN53KEqSiMWSWtAmtv3Zw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TELE UNO
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234833.ts
 #EXTINF:-1 tvg-id="" tvg-name="10 | SAN JOSE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKy32Y3iI5Zi8yZ8RTk-Dv-i9oanmEuzUZw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| colosal
@@ -437,6 +437,14 @@ http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNE2NoiLgdNxPgyBH6OVIx5PC3D0jc0
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlPjlMn1nGd6eajAR_qtTVBiSV1ugp54j-hT7bToiQcQS/ts
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1bJxBhCtpZPJAwG2Cp15OJ7turfIu2kdlw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| crtv
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlKGD1cI_tP0Erkrj_PXm8xI/ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVQC1pxD-iRygI6scQ3tMSjoeLa50WwJP-Q&usqp=CAU"  group-title="⭐️ Costa Rica",CR| cable sur
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlDPm2xLxvlZXf1t7Cy1DK6U/ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnB_cbq2X1wNmTVecnawBLsDS77qXXCe5zA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| nicoya tv
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlCVLvHW9cw8EvHAcOuTevGM/ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQng-FOAcEsdPYyV_6Q-rlB9w9SUeRXfLC8lg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| santa cruz 
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlKTGr9DHg7K6wT8efIN4Esw/ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqKVMGj_1YXfJdJrgE6bhzT9HEVVBDZ1Epww&usqp=CAU"  group-title="⭐️ Costa Rica",CR| mega tvr
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlAPogvvL7zLHGZYYGwVez-4/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CANAL UNO (fw)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCUQbz8wWJAyuPsv5SJspVkH0ilNEK4Qb0A&usqp=CAU" group-title="⭐️ Ecuador",ECU| TELERAMA
 http://kiubo.biz:80/Nicolay@022/Nico@0223/137024.ts
@@ -941,6 +949,10 @@ http://magmas5.com:8000/Oscar86/40473/130476
 
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png" group-title=" ⭐️ Deporte VIP",FUTV (costa rica)
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36170.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuvbVNoMNzHKXwfIKpBDxFJ8p4HoQgeOd1Bw&usqp=CAU" group-title=" ⭐️ Deporte VIP", td+1 (costa rica)
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlHyO8B8wrskaHhMRTwGSEhw/ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_7-AfVbxaD0otp4yO-LnGfya4PljLuB2Yw&usqp=CAU" group-title=" ⭐️ Deporte VIP",td+2 (costa rica)
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlHupxzsvyhXFQGMn6-n4A94/ts
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title=" ⭐️ Deporte VIP", TENNIS CHANNEL 
 http://kiubo.biz:80/Nicolay@022/Nico@0223/36162.ts
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-UFC-live.png" group-title=" ⭐️ Deporte VIP",BOX NACION
