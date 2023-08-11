@@ -69,15 +69,6 @@ http://tv.nousiptv.com:8080/128922/fabiopadula/1144258
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjJMguBkLO6-pWhKeajdpVw8nXCySM7_SZQ&usqp=CAU" group-title="✅ 24/7 VIP",caso cerrado 
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/138119.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj-UiOszPFJYUOpo33BxdzgMoiWb4ZZf5hcA&usqp=CAU" group-title="EVENTOS DIARIOS",17:05 queretaro vs pumas 
-http://latintvec.com:43201/DEcheverry2022/NXdDjDwCkX/242370
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj-UiOszPFJYUOpo33BxdzgMoiWb4ZZf5hcA&usqp=CAU" group-title="EVENTOS DIARIOS",19:06 pachuca vs san luis
-http://latintvec.com:43201/DEcheverry2022/NXdDjDwCkX/242371
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj-UiOszPFJYUOpo33BxdzgMoiWb4ZZf5hcA&usqp=CAU" group-title="EVENTOS DIARIOS",21:10 charlotte vs cruz azul
-http://latintvec.com:43201/DEcheverry2022/NXdDjDwCkX/242372
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj-UiOszPFJYUOpo33BxdzgMoiWb4ZZf5hcA&usqp=CAU" group-title="EVENTOS DIARIOS",20:10 leon vs real salt lake
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/238816
-
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102374.ts
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
@@ -445,6 +436,10 @@ http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlCVLvHW9cw8EvHAcOuTevGM/ts
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlKTGr9DHg7K6wT8efIN4Esw/ts
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqKVMGj_1YXfJdJrgE6bhzT9HEVVBDZ1Epww&usqp=CAU"  group-title="⭐️ Costa Rica",CR| mega tvr
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlAPogvvL7zLHGZYYGwVez-4/ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGJbkbPjNnzlRB_TeMC4KFA2-Chboqv3M2g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| extra tv 42
+https://stream-02.sv4.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4_k-UYtNZC5TGguynPqd_D7EdCZ-M5xl1BLk2lyoU_gU)/dm/3/x83sd3v/s/live-2.m3u8#cell=lsv4
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqKVMGj_1YXfJdJrgE6bhzT9HEVVBDZ1Epww&usqp=CAU"  group-title="⭐️ Costa Rica",CR| sinart canal 13
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlFn-FzIrokau8BysNQI7NOq5Vy7Uan2GvSBcH6U0nk0-/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CANAL UNO (fw)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCUQbz8wWJAyuPsv5SJspVkH0ilNEK4Qb0A&usqp=CAU" group-title="⭐️ Ecuador",ECU| TELERAMA
 http://kiubo.biz:80/Nicolay@022/Nico@0223/137024.ts
